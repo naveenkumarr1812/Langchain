@@ -1,26 +1,53 @@
-#LangChain Core
-LangChain
+# Core LangChain
+langchain
 langchain-core
 
-#OpenAI Integration
+# OpenAI Integration
 langchain-openai
 openai
 
-#Anthropic Integration
+# Anthropic Integration
 langchain-anthropic
 
-#Google Gemini (PaLM) Integration
+# Google Gemini Integration
 langchain-google-genai
 google-generativeai
 
-#Hugging Face Integration
+# Hugging Face Integration
 langchain-huggingface
 transformers
 huggingface-hub
 
-#Enviroment Variables Management
+# LangChain Community
+langchain-community
+
+# LangChain Experimental (for SemanticChunker)
+langchain-experimental
+
+# Pydantic (for data validation)
+pydantic
+
+# Environment Variables Management
 python-dotenv
 
-#Machine Learning Utilities
+# Data Processing & ML Utilities
 numpy
+pandas
 scikit-learn
+
+# Vector Database
+chromadb
+
+# PDF Processing
+pypdf
+
+# Web Scraping & HTTP
+beautifulsoup4
+requests
+
+# Jupyter & IPython
+ipython
+jupyter
+
+# UI Framework
+streamlit
